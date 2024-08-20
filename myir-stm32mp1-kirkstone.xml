@@ -4,8 +4,8 @@
   
   <default remote="evada-myir"/>
   
-  <project name="layers" path="Myir_yocto" remote="evada-myir" revision="ac576d6fad6bba0cfea931883f25264ea83747ca"/>
-  <project name="linux-5.15" path="Myir-kernel" remote="evada-myir" revision="05dcac98473402d87e0af73bbc2c5a6a840abe93"/>
-  <project name="optee-st" path="Myir-optee-st" remote="evada-myir" revision="5b71df60e523423b9df6793de9387f87a149ac42"/>
-  <project name="u-boot-st" path="Myir-uboot-st" remote="evada-myir" revision="f7766da462905ec67bf549d46b8017be36cd5b2a"/>
+  <project name="layers" path="Myir_yocto" remote="evada-myir" revision="refs/heads/main"/>
+  <project name="linux-5.15" path="Myir-kernel" remote="evada-myir" revision="refs/heads/main"/>
+  <project name="optee-st" path="Myir-optee-st" remote="evada-myir" revision="refs/heads/main"/>
+  <project name="u-boot-st" path="Myir-uboot-st" remote="evada-myir" revision="refs/heads/maina"/>
 </manifest>
